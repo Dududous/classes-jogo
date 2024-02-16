@@ -10,9 +10,9 @@ class classe():
             case "mago":
                 print("O Mago atacou usando magia")    
             case "guerreiro":
-                print("O Mago atacou usando espada")
+                print("O Guerreiro atacou usando espada")
             case "monge":
-                print("O Mago atacou usando artes marciais")   
+                print("O Monge atacou usando artes marciais")   
             case "ninja":
                 print("O Ninja atacou usando shuriken")    
 
